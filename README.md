@@ -1,2 +1,7 @@
 # xiangmuks
-开始熟悉GitHub
+#inculde <stdio.h>
+int main()
+{
+ printf("hello,world\n")
+ return 0;
+}
